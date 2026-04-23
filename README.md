@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27026193/README.md)
-# Coastal Risk Dashboard — Plugin QGIS v1.0
+# Coastal Risk Dashboard — Plugin QGIS v1.5_1
 
 Monitoraggio del rischio da erosione costiera per le **isole minori italiane**.
 
@@ -101,4 +101,4 @@ coastal_risk_dashboard/
 ---
 
 ## Licenza
-MIT License — progetto open source
+license=GPL v2
